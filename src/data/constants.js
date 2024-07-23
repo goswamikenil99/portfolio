@@ -13,7 +13,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/goswamikenil99",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1zLNeyd3bC6VMgPFCq3NW9oBmLF1mi3Rl/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/kenil-goswami-297550300/",
   insta: "https://www.instagram.com/goswami.kenil/?next=%2F",
 };
